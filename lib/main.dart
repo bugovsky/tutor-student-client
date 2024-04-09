@@ -1,4 +1,4 @@
-cimport 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:tutor_student_client/router/router.dart';
 import 'package:tutor_student_client/theme/theme.dart';
 
